@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Juit College</string>
+    <string name="black" tools:ignore="ReferenceType">@font/poppins_black</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/poppinsbold</string>
+    <string name="bold" tools:ignore="ReferenceType">@font/poppinsregular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/poppinslight</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_blank_fragment2">Hello blank fragment2</string>
+    <string name="hello_blank_fragment3">Hello blank fragment3</string>
+    <string name="hello_blank_fragment1">Hello blank fragment1</string>
+    <string name="hello_blank_fragment4">Hello blank fragment4</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+    <string-array name="theme">
+        <item>System Default</item>
+        <item>Dark</item>
+        <item>Light</item>
+    </string-array>
+
+    <string name="about_college">The JUIT was conceived by a joint vision of the Govt of Himachal Pradesh and the Founder Chairman of Jaypee Group Shri JaiPrakash Gaur in 2000. Land was provided on lease by the State Govt and the university was established by Act No 14 of 2002 vide Extraordinary Gazette Notification of the Govt of Himachal Pradesh dated May 23, 2002. The University Grants Commission accorded its approval under Section 2(f) of the UGC Act vide their Letter No. F 9-10/2002(CPP-1) dated 09 Dec 2002. The JUIT iis also a member of the Association of Indian Universities (AIU).</string>
+</resources>
